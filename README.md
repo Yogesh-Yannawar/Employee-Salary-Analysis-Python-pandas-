@@ -93,9 +93,7 @@ Certain departments had noticeable disparities in overtime pay.
 
 ```bash
 git clone https://github.com/your-username/employee-salary-analysis.git
+
 cd employee-salary-analysis
 
-2. Open the notebook:
-
-```bash
 jupyter notebook "EDA -Employee Salary Report.ipynb"
